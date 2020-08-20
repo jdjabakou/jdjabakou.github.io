@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Student in Economcs, University of Montréal
+* M.Sc. in Statistics and Economics (Statistician Economist Engineer Diploma), ENSAE de Dakar, 2016
+* M.Sc. in Applied Statistics (Statistic'Work Engineer Diploma), ENSEA d'Abidjan, 2014
 
 Work experience
 ======
