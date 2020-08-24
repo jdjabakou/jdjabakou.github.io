@@ -37,12 +37,6 @@ Skills
 * Computing : Matlab, Python, R, Stata, VBA, LaTeX
 * Languages : English, French
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
