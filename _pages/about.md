@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: ""
+title: "Juste Djabakou      
+"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
---         
+      
 
 
 
 
   
-Hi, I’m Juste Djabakou.    
-I'm a **Ph.D. Student in Economics** at [Université de Montréal](https://sceco.umontreal.ca/).    
+Hi, I’m a **Ph.D. Student in Economics** at [Université de Montréal](https://sceco.umontreal.ca/).    
 
 My research interests relate to Macroeconomics and Applied Economics. I also focus on relevant policy questions in Public Finance, and socioeconomic issues in Africa, especially in West Africa.
 
