@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 `.btn`
+
+<btn class="button button1">Shadow Button</btn>
+
+[Click me](http://www.google.com){: .btn}
 
 
 [`Full CV`]()
