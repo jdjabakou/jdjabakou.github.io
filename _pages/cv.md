@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+`.btn`
 
-You can downnload the full CV herer : [`CV`]()
+
+[`Full CV`]()
+
 Education
 ======
 * Ph.D Student in Economcs, [University of Montréal](https://sceco.umontreal.ca/)
