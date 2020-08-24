@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](){: .btn}
+[Full CV](){: .btn .btn-purple}
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-2016 - 2018 : Economist, French Tresearury, French Embassy in Sénégal
+2016 - 2018 : Economist, French Tresearury, French Embassy in Sénégal   
 2015 : Research Assistant, [ANSD](ansd.sn)
   
 Skills
