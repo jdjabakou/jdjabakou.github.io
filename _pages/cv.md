@@ -12,6 +12,15 @@ redirect_from:
 
 [Full CV](){: .btn}
 
+<h1 align="center">Juste Djabakou</h1>
+<p 
+align="center"> 
+<a href="mailto:juste.djabakou@umontreal.ca" target="_top">juste.djabakou@umontreal.ca</a> 
+<br>
+<a href="https://jdjabakou.github.io">jdjabakou.github.io</a> 
+</p>
+
+
 Education
 ======
 * Ph.D Student in Economcs, [University of Montréal](https://sceco.umontreal.ca/)
