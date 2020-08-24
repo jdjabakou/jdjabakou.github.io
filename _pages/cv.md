@@ -17,24 +17,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2016 - 2018 : Economist, French Tresearury, French Embassy in Sénégal
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2015 : Research Assistant, [ANSD](ansd.sn)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing : Matlab, Python, R, Stata, VBA, LaTeX
+* Languages : English, French
 
 Publications
 ======
