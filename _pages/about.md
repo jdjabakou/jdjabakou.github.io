@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "Juste' website."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+--         
 
 
 
 
-
-
+  
 Hi, I’m Juste Djabakou.    
 I'm a **Ph.D. Student in Economics** at [Université de Montréal](https://sceco.umontreal.ca/).    
 
