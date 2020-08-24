@@ -28,8 +28,9 @@ Education
 
 Work experience
 ======
-2016 - 2018 : Economist, French Tresearury, French Embassy in Sénégal   
-2015 : Research Assistant, [ANSD](ansd.sn)
+2016 - 2018 : Economist, French Tresearury, French Embassy in Sénégal, Dakar    
+2015 : Research Assistant, [ANSD](ansd.sn), Dakar   
+2014 : Health Data Analyst, ACONDA-VS, Abidjan
   
 Skills
 ======
