@@ -12,7 +12,7 @@ redirect_from:
 [Full CV](){: .btn}
 
 <p align = "center">
-[Full CV](){: .btn}
+  <a>[Full CV](){: .btn}</a>
 </p>
 
 <h1 align="center">Juste Djabakou</h1>
