@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+You can downnload the full CV herer : [`CV`]()
 Education
 ======
-* Ph.D Student in Economcs, University of Montréal
-* M.Sc. in Statistics and Economics (Statistician Economist Engineer Diploma), ENSAE de Dakar, 2016
-* M.Sc. in Applied Statistics (Statistic'Work Engineer Diploma), ENSEA d'Abidjan, 2014
+* Ph.D Student in Economcs, [University of Montréal](https://sceco.umontreal.ca/)
+* M.Sc. in Statistics and Economics (Statistician Economist Engineer Diploma), [ENSAE de Dakar](http://ensae.sn/), 2016
+* M.Sc. in Applied Statistics (Statistic'Work Engineer Diploma), [ENSEA d'Abidjan](https://ensea.ed.ci/), 2014
 
 Work experience
 ======
