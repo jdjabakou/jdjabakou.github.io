@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](){: .btn}
+<p align = "center"> [Full CV](){: .btn} </p>
 
 <h1 align="center">Juste Djabakou</h1>
 <p 
