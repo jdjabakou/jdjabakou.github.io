@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Juste Djabakou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Juste Djabakou"
 description              : &description "personal description"
