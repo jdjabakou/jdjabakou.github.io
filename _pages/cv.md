@@ -10,17 +10,12 @@ redirect_from:
 {% include base_path %}
 [Full CV](){: .btn}
 
-<p align = "center">
-  <br>[Full CV](){: .btn}
-</p>
-
 <h1 align="center">Juste Djabakou</h1>
 <p 
 align="center"> 
 <a href="mailto:juste.djabakou@umontreal.ca" target="_top">juste.djabakou@umontreal.ca</a> 
 <br>
 <a href="https://jdjabakou.github.io">jdjabakou.github.io</a> 
-[Full CV](){: .btn}
 </p>
 
 
