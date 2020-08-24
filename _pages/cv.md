@@ -5,14 +5,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  - /resume.html
 ---
 
 {% include base_path %}
 [Full CV](){: .btn}
 
 <p align = "center">
-  <a>[Full CV](){: .btn}</a>
+  <br>[Full CV](){: .btn}
 </p>
 
 <h1 align="center">Juste Djabakou</h1>
